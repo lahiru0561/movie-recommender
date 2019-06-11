@@ -1,6 +1,6 @@
 ## Movie Recommender using Movielens
 
-Movie Recommender using Movielens dataset.
+Movie Recommendation using Movielens dataset.
 
 The Recommender was based on the following models using graphlab
 
